@@ -40,9 +40,10 @@
     </modules>
 
     <scm>
-        <url>scm:git:https://github.com/LibrePDF/OpenPDF</url>
-        <connection>scm:git:https://github.com/LibrePDF/OpenPDF</connection>
-        <developerConnection>scm:git:https://github.com/LibrePDF/OpenPDF</developerConnection>
+        <connection>scm:git:git://github.com/kwart/OpenPDF.git</connection>
+        <developerConnection>scm:git:git@github.com:kwart/OpenPDF.git</developerConnection>
+        <url>http://github.com/kwart/OpenPDF/</url>
+        <tag>HEAD</tag>
     </scm>
     <!-- Distribution config from http://central.sonatype.org/pages/apache-maven.html#distribution-management-and-authentication -->
      <distributionManagement>
